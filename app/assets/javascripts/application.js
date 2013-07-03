@@ -12,4 +12,5 @@
 //
 //= require jquery
 //= require jquery_ujs
+//= rewuire boostrap
 //= require_tree .
