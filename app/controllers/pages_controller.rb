@@ -3,4 +3,5 @@ class PagesController < ApplicationController
   end
   def action
   end
+  
 end

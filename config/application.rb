@@ -60,5 +60,7 @@ module Beer
     config.assets.version = '1.0'
     #required for heroku 
     config.assets.initialize_on_precompile = false
+
+   
   end
 end
